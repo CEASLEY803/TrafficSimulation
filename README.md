@@ -5,6 +5,3 @@ This project simulates a traffic system with vehicles moving through lanes and c
 - Dynamic vehicle movement and lane switching.
 - Configurable traffic parameters.
 - Statistical tracking of delays and traffic flow.
-
-## How to Run
-- Compile the Java files:
