@@ -1,2 +1,10 @@
-# TrafficSimulation
-a traffic simulation system that models vehicle flow through multiple lanes and intersections controlled by traffic lights. Implemented dynamic vehicle movement, lane switching, and statistical tracking, including average time and delays. Configurable parameters allowed testing various traffic scenarios.
+# Traffic Simulation System
+This project simulates a traffic system with vehicles moving through lanes and controlled by traffic lights.
+
+## Features
+- Dynamic vehicle movement and lane switching.
+- Configurable traffic parameters.
+- Statistical tracking of delays and traffic flow.
+
+## How to Run
+- Compile the Java files:
